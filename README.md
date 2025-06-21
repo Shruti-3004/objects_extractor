@@ -14,10 +14,4 @@ This project detects **scene changes in a video** and uses **OpenAI's Vision mod
 2. **Product Detection**  
    Each detected scene is analyzed using OpenAI Vision API to identify visible **commercial products and brands**.
 
-3. **Result Output**  
-   Stores results in a structured CSV file with image-frame-to-product mapping.
-
 ---
-
-## 📁 Folder Structure
-
