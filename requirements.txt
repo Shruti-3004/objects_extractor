@@ -1,10 +1,8 @@
 dotenv==0.9.9
 imageio==2.37.0
 openai==1.88.0
-opencv-contrib-python==4.10.0.84
-opencv-python==4.11.0.86
-opencv-python-headless==4.11.0.86
+opencv-python
 pandas==2.3.0
 pillow==11.2.1
 numpy
-base64
+pybase64
