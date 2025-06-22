@@ -19,7 +19,10 @@ This project automatically detects and identifies **branded products** from **vi
 
 * Python 3.8+
 * An OpenAI API key with access to `gpt-4o` vision model
-
+* Install all the requried dependencies from 'requirements.txt' file
+```bash
+pip install -r requirements.txt
+```
 ---
 
 ## 📁 Folder Structure
@@ -54,11 +57,7 @@ OPENAI_API_KEY=your_openai_api_key_here
 
 ### 4. Run the code
 
-Run the script with:
-
-```bash
-python main.py
-```
+Run the cell in the notebook 'final_pipeline.ipynb'
 
 The output will be saved to `detected_objects.csv`.
 
